@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-Book sobre avaliação de políticas públicas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Livro com foco em gestores públicas para subsiidir o processo de implementação e avaliação de políticas públicas. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IAs Generativas e outras ferramentas usadas: ChatGPT, Gemini. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Busca de informações nas IA listadas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultados são preliminares e ainda não publicáveis. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Carece de informações mais técnicas  e científicas, as infos são superficiais. 
 ```
 
 ### Exemplos e Insigths
